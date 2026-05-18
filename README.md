@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Ast1Kaan/PRIMErecorder/releases"><img src="https://img.shields.io/github/v/release/Ast1Kaan/PRIMErecorder?style=flat-square&color=red" alt="Release"></a>
-  <a href="https://github.com/Ast1Kaan/PRIMErecorder/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-GPL--v2-blue?style=flat-square" alt="License"></a>
+  <a href="https://github.com/Ast1Kaan/PRIMErecorder/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License"></a>
   <a href="https://github.com/Ast1Kaan/PRIMErecorder"><img src="https://img.shields.io/github/stars/Ast1Kaan/PRIMErecorder?style=flat-square&color=yellow" alt="Stars"></a>
   <img src="https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square&logo=windows" alt="Platform">
 </p>
