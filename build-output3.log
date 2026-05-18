@@ -1,0 +1,22 @@
+  • electron-builder  version=24.13.3 os=10.0.17763
+  • loaded configuration  file=package.json ("build" field)
+  • author is missed in the package.json  appPackageFile=C:\Users\kagan\Desktop\PRIMErecorder\package.json
+  • "electron-squirrel-startup" dependency is not required for NSIS
+  • rebuilding native dependencies  dependencies=better-sqlite3@9.6.0 platform=win32 arch=x64
+  • install prebuilt binary  name=better-sqlite3 version=9.6.0 platform=win32 arch=x64 napi=
+  • packaging       platform=win32 arch=x64 electron=29.4.6 appOutDir=release\win-unpacked
+  • building        target=nsis file=release\PRIMErecorder Setup 26.1.0.exe archs=x64 oneClick=false perMachine=false
+  • output file is locked for writing (maybe by virus scanner) => waiting for unlock...  
+  • building block map  blockMapFile=release\PRIMErecorder Setup 26.1.0.exe.blockmap
+  ⨯ C:\Users\kagan\Desktop\PRIMErecorder\node_modules\.pnpm\app-builder-bin@4.0.0\node_modules\app-builder-bin\win\x64\app-builder.exe process failed ERR_ELECTRON_BUILDER_CANNOT_EXECUTE
+Exit code:
+3221225786  failedTask=build stackTrace=Error: C:\Users\kagan\Desktop\PRIMErecorder\node_modules\.pnpm\app-builder-bin@4.0.0\node_modules\app-builder-bin\win\x64\app-builder.exe process failed ERR_ELECTRON_BUILDER_CANNOT_EXECUTE
+Exit code:
+3221225786
+    at ChildProcess.<anonymous> (C:\Users\kagan\Desktop\PRIMErecorder\node_modules\.pnpm\builder-util@24.13.1\node_modules\builder-util\src\util.ts:252:14)
+    at Object.onceWrapper (node:events:631:26)
+    at ChildProcess.emit (node:events:509:28)
+    at ChildProcess.cp.emit (C:\Users\kagan\Desktop\PRIMErecorder\node_modules\.pnpm\cross-spawn@7.0.6\node_modules\cross-spawn\lib\enoent.js:34:29)
+    at maybeClose (node:internal/child_process:1124:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:306:5)
+^C^C
