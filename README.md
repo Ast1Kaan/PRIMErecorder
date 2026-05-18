@@ -102,7 +102,7 @@ PRIMErecorder/
 
 ## 📜 Lisans
 
-[GPL v2](./LICENSE) — OBS ile uyumlu
+[MIT](./LICENSE) — OBS ile uyumlu
 
 ## 🤝 Katkıda Bulunma
 
